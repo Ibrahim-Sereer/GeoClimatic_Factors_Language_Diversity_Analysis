@@ -8,6 +8,12 @@
 
 This project analyzes the relationship between geographic/climatic factors and language diversity using data from Nettle (1998). The dataset includes 74 countries with variables such as the number of languages spoken, population size, area, and growing season length. The aim is to determine if longer growing seasons correlate with higher language diversity. By examining these variables and visualizing their relationships, the analysis seeks to uncover patterns and insights into how ecological conditions might influence linguistic diversity across regions. This project serves as a portfolio piece demonstrating skills in data manipulation, visualization, and statistical analysis.
 
+![Language Density VS Growing Season](https://github.com/SereerAnalytix/Portfolio-/assets/174109528/9831dfd5-0579-440f-91d0-d4698cdaa02d)
+
+![Number of Languages VS Population](https://github.com/SereerAnalytix/Portfolio-/assets/174109528/0e5c6fce-4cc7-42f6-9998-5eb95eb1e8e4)
+
+
+
 ### Tools
 
 - R - Data analysis and visualization [download here] (https://www.r-project.org/)
