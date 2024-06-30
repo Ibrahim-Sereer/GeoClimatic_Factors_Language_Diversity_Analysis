@@ -1,2 +1,2 @@
-# Portfolio-
+# Portfolio
 selection of analytical projects
