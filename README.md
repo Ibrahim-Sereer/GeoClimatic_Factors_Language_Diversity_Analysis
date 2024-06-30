@@ -5,6 +5,7 @@
 - [Project overview](project-overview)
 - 
 ### project overview 
+---
 
 This project analyzes the relationship between geographic/climatic factors and language diversity using data from Nettle (1998). The dataset includes 74 countries with variables such as the number of languages spoken, population size, area, and growing season length. The aim is to determine if longer growing seasons correlate with higher language diversity. By examining these variables and visualizing their relationships, the analysis seeks to uncover patterns and insights into how ecological conditions might influence linguistic diversity across regions. This project serves as a portfolio piece demonstrating skills in data manipulation, visualization, and statistical analysis.
 
