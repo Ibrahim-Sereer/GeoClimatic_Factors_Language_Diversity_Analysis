@@ -27,7 +27,7 @@ This project analyzes the relationship between geographic/climatic factors and l
 
 - R - Data analysis and visualization [download here] (https://www.r-project.org/)
 
-### Data clealing/preperation 
+### Data preperation 
 
 Data Exploration Phase:
 
