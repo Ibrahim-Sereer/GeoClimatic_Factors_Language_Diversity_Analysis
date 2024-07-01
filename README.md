@@ -2,8 +2,16 @@
 
 ## Table of contents
 
-- [Project overview](project-overview)
-- 
+- [Project Overview](#project-overview)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#resultsfindings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+  
 ### project overview 
 ---
 
